@@ -1,3 +1,3 @@
 export default function primitiveSample() {
-  console.log("Foo");
+  console.log('Foo')
 }
