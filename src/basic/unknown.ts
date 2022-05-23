@@ -3,6 +3,7 @@ export default function unknown() {
   console.log('unknown sample 1:', typeof maybeNumber, maybeNumber)
 
   const isFoo = maybeNumber === 'foo'
+
   console.log('unknown sample 2:', typeof isFoo, isFoo)
 
   if (typeof maybeNumber === 'number') {
