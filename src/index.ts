@@ -37,8 +37,12 @@
 // 07
 // import arraySample from './array/array';
 // arraySample()
-import genericsBasic from './generics/basic'
-genericsBasic()
+// import genericsBasic from './generics/basic'
+// genericsBasic()
 
-import genericsAdvanced from './generics/advanced'
-genericsAdvanced()
+// import genericsAdvanced from './generics/advanced'
+// genericsAdvanced()
+
+// // 10
+// import interface from './interface/interface'
+// interface()
