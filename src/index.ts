@@ -46,3 +46,11 @@
 // // 10
 // import interface from './interface/interface'
 // interface()
+
+// 11
+// import callback from './asynchronous/callback'
+// callback()
+// import promise from './asynchronous/promise'
+// promise()
+import asyncAwait from './asynchronous/asyncAwait'
+asyncAwait()
